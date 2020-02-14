@@ -1,0 +1,29 @@
+body{
+  margin:0;
+}
+
+header{
+  background-color: #89cff0;
+  height: 120px;
+}
+
+article{
+  background-color: white;
+  margin: 0 auto;
+  width: 60vw;
+}
+
+nav{
+  float: left;
+  width: 20vw;
+  height: 800px;
+  background-color: #bde3f5
+}
+
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 50px;
+  background-color: #a9a9a9
+}
